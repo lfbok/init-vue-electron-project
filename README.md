@@ -13,8 +13,7 @@ npm run dev
 
 # build electron application for production
 npm run build
-
-
+![alt 截图](https://github.com/lfbok/init-vue-electron-project/blob/master/static/BEE55260-5533-41e2-B4EE-6B30CB9640F2.png)
 ```
 
 ---
